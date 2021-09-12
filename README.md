@@ -30,11 +30,15 @@ During my final year on the course, we created a bespoke react component in the 
 
 Admiral repo : https://github.com/JoeBaxendale/admiralproject-group6v2 - Created 2020
 
+Our second major project was a timesheet dashboard system for Admiral. This would allow them to consolidate all timesheets into one centralised application with multiple access levels. Admins can assign contractors to different managers and change details about timesheets. Managers can approve and change details about timesheets. Contractors can submit timesheets for review and for Admiral to pay the contractors.
+
 Bird watching app repo : https://github.com/JoeBaxendale/ase-1819-wildlife-group2 - Created 2019
+
+My first university project, we were approached by a third party in order to create a mobile social media application for bird watchers to be able to upload sounds and pictures of birds for other to identify. Included in the application was an information page to enable users to identify the wildlife themselves.
 
 Bespoke discord bot created for personal server use : https://github.com/JoeBaxendale/FatBot - Originally Created 2019 and development restarted 2021
 
-
+A discord bot created to emulate a user taking up multiple discord slots in a channel. Used among friends and still currently in development.
 
 ### Contact Details:
 
