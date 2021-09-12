@@ -1,12 +1,27 @@
-Hi, I’m Joe Baxendale
-
-Graduated from Cardiff Univeristy with a degree in Applied Software Engineering 2021
-
-Currently looking for jobs in software engineering
+## Hi, I'm Joe Baxendale
 
 
-Linked below are some examples of my work during my 3 year course
+Pronouns: He/Him
 
+Graduated from Cardiff University 2021 with a degree in Applied Software Engineering
+
+
+
+### Technologies
+
+[![Python badge](https://img.shields.io/badge/Python-black.svg)](https://shields.io/)
+[![Java badge](https://img.shields.io/badge/Java-black.svg)](https://shields.io/)
+[![JavaScript badge](https://img.shields.io/badge/JavaScript-black.svg)](https://shields.io/)
+[![Git badge](https://img.shields.io/badge/Git-black.svg)](https://shields.io/)
+[![React badge](https://img.shields.io/badge/React-black.svg)](https://shields.io/)
+[![MySQL badge](https://img.shields.io/badge/MySQL-black.svg)](https://shields.io/)
+[![MongoDB badge](https://img.shields.io/badge/MongoDB-black.svg)](https://shields.io/)
+[![Jenkins badge](https://img.shields.io/badge/Jenkins-black.svg)](https://shields.io/)
+[![HTML badge](https://img.shields.io/badge/HTML-black.svg)](https://shields.io/)
+[![MySQL badge](https://img.shields.io/badge/MySQL-black.svg)](https://shields.io/)
+[![Terraform badge](https://img.shields.io/badge/Terraform-black.svg)](https://shields.io/)
+
+### Projects
 
 BT data visualisation repo : https://github.com/JoeBaxendale/project-3b - Created 2021
 
@@ -20,8 +35,13 @@ Bird watching app repo : https://github.com/JoeBaxendale/ase-1819-wildlife-group
 Bespoke discord bot created for personal server use : https://github.com/JoeBaxendale/FatBot - Originally Created 2019 and development restarted 2021
 
 
-Contact details:
 
-Email: joebaxendale282@gmail.com
+### Contact Details:
 
-Mobile Phone: 07860 132298
+<img src="https://www.seekpng.com/png/full/207-2076591_black-email-logo-png-email-logo.png" width="15" height="15"></img> : joebaxendale282@gmail.com
+
+<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" width="15" height="15"></img> : 07860 132 298
+
+<img src="https://www.seekpng.com/png/full/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" width="15" height="15"></img> : https://www.linkedin.com/in/joe-baxendale/
+
+<img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width="15" height="8"></img> : bigllybob#0954
