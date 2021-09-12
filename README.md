@@ -6,10 +6,12 @@ Currently looking for jobs in software engineering
 Linked below are some examples of my work during my 3 year course
 
 BT data visualisation repo
+
 Admiral repo
+
 Bird watching app repo
-Fatbot?
-Spring boot?
+
+Bespoke discord bot created for personal server use : 
 
 Contact details:
 Email: joebaxendale282@gmail.com
