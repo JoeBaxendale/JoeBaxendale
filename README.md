@@ -1,7 +1,9 @@
 Hi, I’m Joe Baxendale
 
 Graduated from Cardiff Jniveristy with a degree in Applied Software Engineering 2021
+
 Currently looking for jobs in software engineering
+
 
 Linked below are some examples of my work during my 3 year course
 
@@ -13,6 +15,9 @@ Bird watching app repo : https://github.com/JoeBaxendale/ase-1819-wildlife-group
 
 Bespoke discord bot created for personal server use : https://github.com/JoeBaxendale/FatBot - Originally Created 2019 and development restarted 2021
 
+
 Contact details:
+
 Email: joebaxendale282@gmail.com
+
 Mobile Phone: 07860 132298
