@@ -40,6 +40,11 @@ Bespoke discord bot created for personal server use : https://github.com/JoeBaxe
 
 A discord bot created to emulate a user taking up multiple discord slots in a channel. Used among friends and still currently in development.
 
+AutoEloUpdater: https://github.com/JoeBaxendale/AutoEloUpdater
+
+A custom made project which will take MMR data about specific rainbow six siege accounts from the StatsDB api and apply the values received to a private google sheet.
+Used to display who is the highest rank amoung friends easily. 
+
 ### Contact Details:
 
 <img src="https://www.seekpng.com/png/full/207-2076591_black-email-logo-png-email-logo.png" width="15" height="15"></img> : joebaxendale282@gmail.com
